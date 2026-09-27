@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi I'm Christian
 
-<!--
-**cg0618/cg0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist at Shell. I've worked on Predictive Modeling and NLP projects**
 
-Here are some ideas to get you started:
+I am a statistics-driven data professional (UP Diliman) with extensive experience building and deploying end-to-end data pipelines, predictive models, and AI solutions at enterprise scale (Shell, Emerson, Accenture). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔒 *Note: The majority of my daily work involving GenAI deployments and automated ETL pipelines is proprietary and hosted on private enterprise servers. Below are some of my personal projects demonstrating my data science capabilities!*
+
+## 🛠️ Tech Stack
+* **Languages:** Python, R, SQL, JavaScript
+* **Machine Learning:** XGBoost, LightGBM, PyTorch, TensorFlow, DataRobot
+* **MLOps & Engineering:** MLflow, FastAPI, Docker, GitHub Actions
+* **Data & BI:** Power BI, Tableau, SQL Server, MySQL
